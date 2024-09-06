@@ -1,4 +1,7 @@
-## Hi there 👋
+ ### Hi! I'm Maria Júlia Aguiar! ☺
+
+
+- 👩🏻‍💻 I'm Graduated in Control and Automation Engineering and master's degree in Electrical Engineering at the Federal University of Juiz de Fora.".
 
 <!--
 **MariaJuliaAguiar/MariaJuliaAguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
